@@ -4,6 +4,8 @@
  * building robust, powerful web applications using Vue and Laravel.
  */
 
+require('bootstrap'); // importa la libreria boostrap
+
 require('./bootstrap');
 
 window.Vue = require('vue');
